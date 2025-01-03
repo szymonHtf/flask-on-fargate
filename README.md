@@ -58,3 +58,5 @@ docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/flask-on-fargate:lat
 ```
 
 4. Rest of the steps are shown in the video tutorial. Please refer to the video for detailed instructions.
+
+https://www.youtube.com/watch?v=fhRBNjYYY9k
